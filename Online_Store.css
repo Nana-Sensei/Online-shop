@@ -1,0 +1,44 @@
+.shop-cart {
+	margin-top: 40px;
+}
+
+
+
+h5 {
+	margin: 0px;
+}
+
+p {
+	margin: 0px;
+}
+
+.price {
+	margin-top: 15px;
+}
+
+.size-id { width: 20px; height: 30px; 
+	background-color: grey ; border-radius: 50%;
+
+
+}
+
+.star-btn {
+	color: black;
+	background-color: #e4e4e4;
+	border-color: grey;
+}
+
+.product {
+	padding-top: 5px;
+}
+
+/*.store-img {
+	position: relative;
+}*/
+
+.shipping { color: white;
+	position: absolute;
+	left: 115px; top: 10px;
+	background-color: black;
+	padding: 5px;
+}
